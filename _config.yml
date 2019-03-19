@@ -82,4 +82,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:gyf365/gyf365.github.io.git
+  repository: git@github.com:gyf365/gyf365.github.io.git
+  branch: master
